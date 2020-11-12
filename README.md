@@ -1,6 +1,6 @@
 # Machine-Learning-practice
 
-This repository contains my work on some of the kaggle datasets and machine learning challenges.
+This repository contains some of my work on kaggle datasets and machine learning challenges.
 
 https://www.kaggle.com/bhaveshkumar01/mobilenetv2-classifier
 
